@@ -6,11 +6,11 @@
 
 Frontend Lead at Charlie Tango, making magic. ✨
 
-[![Thebuilders's github stats](https://github-readme-stats.vercel.app/api?username=thebuilder&show_icons=true&theme=radical)](https://github.com/thebuilder/github-readme-stats)
+[![Thebuilders's github stats](https://github-readme-stats.vercel.app/api?username=thebuilder&show_icons=true&theme=radical)](https://github.com/thebuilder/)
 
 Make sure you check out the React Intersection Observer library:
 
-[![react-intersection-observer](https://github-readme-stats.vercel.app/api/pin/?username=thebuilder&repo=react-intersection-observer&show_icons=true&theme=radical)](https://github.com/thebuilder/github-readme-stats)
+[![react-intersection-observer](https://github-readme-stats.vercel.app/api/pin/?username=thebuilder&repo=react-intersection-observer&show_icons=true&theme=radical)](https://github.com/thebuilder/react-intersection-observer)
 
 
 <!--
