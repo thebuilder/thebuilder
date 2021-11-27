@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 [![GitHub thebuilder](https://img.shields.io/github/followers/thebuilder?label=follow&style=social)](https://github.com/thebuilder)
-[![Twitter: teh_builder](https://img.shields.io/twitter/follow/teh_builder?style=social)](https://twitter.com/teh_builder_)
+[![Twitter: teh_builder](https://img.shields.io/twitter/follow/teh_builder?style=social)](https://twitter.com/teh_builder)
 [![Linkedin: Daniel Schmidt](https://img.shields.io/badge/-Daniel%20Schmidt-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-plejdrup-schmidt/)](https://www.linkedin.com/in/daniel-plejdrup-schmidt/)
 
 Frontend Lead at Charlie Tango, making magic. ✨
